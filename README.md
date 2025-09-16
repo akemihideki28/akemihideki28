@@ -47,7 +47,7 @@
   <a href="mailto:raffijanuarpratama9760@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://akemihideki28.github.io">
+  <a href="https://github.com/akemihideki28">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
