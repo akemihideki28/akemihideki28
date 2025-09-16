@@ -1,6 +1,6 @@
 <!-- Banner (opsional, upload ke repo dulu lalu ganti link) -->
 <p align="center">
-  <img src="https://github.com/akemihideki28/akemihideki28/blob/main/ChatGPT%20Image%2016%20Sep%202025,%2015.21.51.png?raw=true" alt="Akemi Banner" width="900"/>
+  <img src="https://github.com/akemihideki28/akemihideki28/blob/main/akemi_coding_banner.gif?raw=true"Akemi Banner" width="900"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Akemi</h1>
