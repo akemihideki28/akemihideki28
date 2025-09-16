@@ -1,36 +1,59 @@
-# 👋 Hi, I'm [Akemi]  
+<!-- Banner (opsional, upload ke repo dulu lalu ganti link) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akemihideki28/akemihideki28/main/banner.png" alt="Akemi Banner" width="900"/>
+</p>
 
-💻 **Software Engineer | Web Developer | Tech Enthusiast**  
+<h1 align="center">👋 Hi, I'm Akemi</h1>
+<p align="center">
+  💻 <b>Software Engineer | Web Developer | Tech Enthusiast</b>  
+</p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently studying at **[Politeknik Meta Industri / Teknologi Rekayasa Perangkat Lunak]**
-- 🌱 Learning and exploring **Fullstack Development**
-- 💡 Interested in **Backend Engineering, DevOps, and Cloud Computing**
+- 🎓 Currently studying at **Politeknik Meta Industri – Teknologi Rekayasa Perangkat Lunak**  
+- 🌱 Focused on learning **Fullstack Development**  
+- 💡 Passionate about **Backend Engineering, DevOps, and Cloud Computing**  
 - ⚡ Fun fact: I love solving problems and automating boring stuff  
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: JavaScript, PHP, Python, C++  
-- **Frameworks**: Laravel, React, Node.js  
-- **Databases**: MySQL, MongoDB  
-- **Tools**: Git, Docker, VS Code, Postman  
+<p>
+  <b>Languages:</b> JavaScript · PHP · Python · C++  
+  <br>
+  <b>Frameworks:</b> Laravel · React · Node.js  
+  <br>
+  <b>Databases:</b> MySQL · MongoDB  
+  <br>
+  <b>Tools:</b> Git · Docker · VS Code · Postman  
+</p>
 
 ---
 
 ### 📊 GitHub Analytics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akemihideki28&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemihideki28&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
+</p>
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffi-bhanu-januar-pratama-7b3631318/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raffijanuarpratama9760@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://akemihideki28.github.io)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/raffi-bhanu-januar-pratama-7b3631318/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:raffijanuarpratama9760@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://akemihideki28.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
+<p align="center">
+  ⭐️ <i>“Code is like humor. When you have to explain it, it’s bad.”</i> ⭐️
+</p>
